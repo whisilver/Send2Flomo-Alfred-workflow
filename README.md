@@ -4,7 +4,8 @@ Alfred: select text in MacOS and send to flomo, or type in text
 —————————————————
 
 注意：
-该workflow改编自@beeta（见workflow：Alfred2Flomo）， 感谢原开发者~
+
+该workflow改编自@beeta（见workflow：Alfred2Flomo）， 感谢原开发者
 
 Send2Flomo在该基础上优化几处：
 1. mac os 增加选中文本按快捷键即可发送至flomo
