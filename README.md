@@ -2,8 +2,9 @@
 Alfred: select text in MacOS and send to flomo, or type in text 
 —————————————————
 注意：
-该workflow的python源码来自@beeta（见workflow：Alfred2Flomo）
-本workflow在该基础上优化几处：
+该workflow改编自@beeta（见workflow：Alfred2Flomo）， 感谢原开发者~
+
+Send2Flomo在该基础上优化几处：
 1. mac os 增加选中文本按快捷键即可发送至flomo
 2. 增加默认标签选项
 3. 保留直接从alfred输入memo的功能
@@ -35,9 +36,18 @@ p.s. API查询（https://support.qq.com/products/297045/link-jump?jump=https%3A%
 ## 用法一：
 任意处选中文本发送
 
+https://user-images.githubusercontent.com/23276566/116066076-3e0b7c00-a6ba-11eb-8d7f-4ce1546707b1.mov
+
 
 
 ## 用法二：
 在Alfred输入memo
 
+https://user-images.githubusercontent.com/23276566/116066103-45328a00-a6ba-11eb-84a3-57f5fefcbbfb.mov
+
+
+
+# 待改进之处
+小设计师没有很强的代码能力，不知道怎么能在结尾自动关闭alfred输入框，如果有大牛知道请指教指教~！
+其他建议欢迎联系 cheng19961022@qq.com
 
