@@ -1,5 +1,5 @@
 # Send2Flomo-Alfred-workflow
-Alfred: select text in MacOS and send to flomo, or type in text 
+Flomo+Alfred: select text or type in and then, send to flomo
 
 —————————————————
 
