@@ -1,5 +1,6 @@
 # Send2Flomo-Alfred-workflow
 Alfred: select text in MacOS and send to flomo, or type in text 
+
 —————————————————
 注意：
 该workflow改编自@beeta（见workflow：Alfred2Flomo）， 感谢原开发者~
