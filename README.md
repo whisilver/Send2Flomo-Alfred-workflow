@@ -13,10 +13,31 @@ Alfred: select text in MacOS and send to flomo, or type in text
 
 前置：安装Alfred
 
-下载workflow文件，双击打开，添加至Alfred
+1. 下载workflow文件（有带标签或不带标签两个版本），双击打开
+
+2. Alfred preference 中右键workflow，选择 open in finder
+![image](https://user-images.githubusercontent.com/23276566/116057343-4b703880-a6b1-11eb-8b24-66b5f5e4e30d.png)
+
+3. 找到 flomo.py,用记事本打开
+![image](https://user-images.githubusercontent.com/23276566/116057660-98eca580-a6b1-11eb-9b5f-66d4bf4ee2dd.png)
+
+4. 用自己的flomo Web API替换url，并保存
+p.s. API查询（https://support.qq.com/products/297045/link-jump?jump=https%3A%2F%2Fflomoapp.com%2Fmine%3Fsource%3Dincoming_webhook）
+![image](https://user-images.githubusercontent.com/23276566/116057195-27acf280-a6b1-11eb-8ad1-f6859b143f3d.png)
+
+5. 个性化：打开Alfred preference，可按偏好修改workflow
+![image](https://user-images.githubusercontent.com/23276566/116060794-c38c2d80-a6b4-11eb-988b-bb95a1b0d0f3.png)
 
 
 # 使用说明
+以带标签版本为例进行演示。
 
-用法一：
-mac os中选中文本
+## 用法一：
+任意处选中文本发送
+
+
+
+## 用法二：
+在Alfred输入memo
+
+
