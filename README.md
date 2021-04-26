@@ -21,7 +21,7 @@ Send2Flomo在该基础上优化几处：
 1. 下载workflow文件（有带标签或不带标签两个版本），双击打开
 
 2. Alfred preference 中右键workflow，选择 open in finder
-![image](https://user-images.githubusercontent.com/23276566/116057343-4b703880-a6b1-11eb-8b24-66b5f5e4e30d.png)
+![image](https://user-images.githubusercontent.com/23276566/116068143-7dd36300-a6bc-11eb-9319-59dcad8cf14d.png)
 
 3. 找到 flomo.py,用记事本打开
 ![image](https://user-images.githubusercontent.com/23276566/116057660-98eca580-a6b1-11eb-9b5f-66d4bf4ee2dd.png)
