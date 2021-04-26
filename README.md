@@ -14,6 +14,7 @@ Send2Flomo在该基础上优化几处：
 
 —————————————————
 
+
 # 安装说明
 
 前置：安装Alfred
@@ -35,6 +36,8 @@ p.s. API查询（https://support.qq.com/products/297045/link-jump?jump=https%3A%
 ![image](https://user-images.githubusercontent.com/23276566/116060794-c38c2d80-a6b4-11eb-988b-bb95a1b0d0f3.png)
 
 
+
+
 # 使用说明
 以带标签版本为例进行演示。
 
@@ -49,6 +52,7 @@ https://user-images.githubusercontent.com/23276566/116066076-3e0b7c00-a6ba-11eb-
 在Alfred输入memo
 
 https://user-images.githubusercontent.com/23276566/116066103-45328a00-a6ba-11eb-84a3-57f5fefcbbfb.mov
+
 
 
 
