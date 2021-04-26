@@ -65,4 +65,3 @@ https://user-images.githubusercontent.com/23276566/116066103-45328a00-a6ba-11eb-
 
 第一次制作，如果你喜欢的话，就点亮一个小星星吧~
 
-另，喜欢notion+flomo，也希望flomo可以越来越好:)
